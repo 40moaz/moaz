@@ -10,11 +10,11 @@ import Responsivemenue from "../responsivemenu/Responsivemenue";
 import hero from "../../assets/images/man-svgrepo-com.svg"
 import scrolldown from "../../assets/images/scroll-down.svg"
 
-const links: LinksType = [
-  { id: 1, name: "Projects", link: "#projects" },
-  { id: 2, name: "About", link: "#About" },
-  { id: 3, name: "Contact", link: "#contact" },
-]
+// const links: LinksType = [
+//   { id: 1, name: "Projects", link: "#projects" },
+//   { id: 2, name: "About", link: "#About" },
+//   { id: 3, name: "Contact", link: "#contact" },
+// ]
 
 const Nav = () => {
 
