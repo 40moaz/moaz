@@ -5,7 +5,7 @@ import { useEffect, useState } from "react";
 
 import Aos from "aos";
 import { IoMdMenu } from "react-icons/io";
-import { LinksType } from "../Types";
+// import { LinksType } from "../Types";
 import Responsivemenue from "../responsivemenu/Responsivemenue";
 import hero from "../../assets/images/man-svgrepo-com.svg"
 import scrolldown from "../../assets/images/scroll-down.svg"
